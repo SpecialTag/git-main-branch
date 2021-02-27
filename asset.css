@@ -1,0 +1,39 @@
+header{
+    background-color: aquamarine;
+  
+
+}
+
+main{
+    background-color: rgb(219, 243, 243);
+    text-align: center;
+}
+
+footer{
+    background-color: cadetblue;
+}
+
+body{
+    position: relative;
+}
+
+
+.list1{
+    text-align: right;
+    display: inline;
+    text-decoration: none;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    background-color: chocolate;
+    padding: 20px;
+    border: 9px solid blueviolet;
+    margin: 15px auto;
+}
+
+.fff{
+    position: relative;
+    display: block;
+}
